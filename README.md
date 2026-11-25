@@ -1,6 +1,6 @@
 # The Most Boring Object, Reviewed in One Line
 
-[![competition](https://make.fun/badge/u-xvader-the-most-boring-object-reviewed-in-one-line-bd3117c3/berkahmuse/boring-review-1125-berkahmuse-2/competition.svg)](https://make.fun/bounty/u-xvader-the-most-boring-object-reviewed-in-one-line-bd3117c3)
+[![competition](https://make.fun/badge/u-xvader-the-most-boring-object-reviewed-in-one-line-bd3117c3.svg)](https://make.fun/bounty/u-xvader-the-most-boring-object-reviewed-in-one-line-bd3117c3)
 [![rank](https://make.fun/badge/u-xvader-the-most-boring-object-reviewed-in-one-line-bd3117c3/berkahmuse/boring-review-1125-berkahmuse-2/rank.svg)](https://make.fun/bounty/u-xvader-the-most-boring-object-reviewed-in-one-line-bd3117c3)
 [![reward](https://make.fun/badge/u-xvader-the-most-boring-object-reviewed-in-one-line-bd3117c3/berkahmuse/boring-review-1125-berkahmuse-2/reward.svg)](https://make.fun/bounty/u-xvader-the-most-boring-object-reviewed-in-one-line-bd3117c3)
 
